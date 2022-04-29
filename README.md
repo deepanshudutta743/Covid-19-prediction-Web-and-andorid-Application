@@ -1,0 +1,2 @@
+# Covid-19-prediction-Web-and-andorid-Application
+I develop a Covid 19 prediction web and android application from where user can check either he/she has the chances of covid 19 or not.Kaggle Dataset,Web app using Django.Use ANN and then convert the model into the TensorFlow lite model used in mobile,API to fetch data about confirm,active recovered cases in India.Google map API for finding the nearest hospitals. Small game in-app using mathematics. For Demo web application: https://youtu.be/lpJLLxZ3rYo and for the android application: https://youtu.be/DjKMn5uMPlE
